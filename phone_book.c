@@ -1,4 +1,6 @@
-#include <stdio.h>
+
+
+     #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 
@@ -216,7 +218,7 @@ void list(FILE *db_file)
     c++;
   }
   
-  printf("Total entries : %d\n",c);
+  printf("Total entries :  %d\n",c);
   /* TBD print total count #3*/
   free_entries(base);
 }
@@ -289,6 +291,27 @@ return index;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+    
+   
+    
+  
+
+
+    
+   
+ 
+ 
 
 
 
